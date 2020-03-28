@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="required_numero1">Numero 1 is a required field</string>
+    <string name="required_numero2">Numero 2 is a required field</string>
+</resources>
